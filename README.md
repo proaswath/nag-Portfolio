@@ -3,9 +3,6 @@
 This repository showcases hands-on projects aligned to my resume: **ETL pipelines, SQL optimization, data migration, API integrations, data quality, and cloud-ready workflows**.
 Each project includes a clear README with problem statement, architecture, instructions, and sample data.
 
-> Designed to be **tech-light (ETL/SQL/Cloud)** and recruiter-friendly.
-
-
 ## How to Use
 
 1. **Create a virtual env & install deps**
